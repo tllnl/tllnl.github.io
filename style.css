@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background: url('../timesitee-assets/img/wtg.jpg') no-repeat center top / cover; 
+    height: 836px;
+}
+
+.container{
+    height: 836px;
+    width: 1366px;
+}
+
+h1{
+    font-size: 72pt;
+    color: #fff;
+    text-transform: uppercase;
+    text-align:center;
+    width: 100%;
+    height: 11%;
+    margin: 0 auto;
+    padding-top: 250px;
+    padding-left: 120px;
+    padding-bottom: 20px
+}
+
+.titletwo{
+    font-size: 24pt;
+    color: #fff;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 550px
+}
+
+.containertwo{
+    height: 450px;
+    padding-bottom: 70px;
+}
+
+h2{
+    font-size: 35px;
+    padding-top: 150px;
+   text-align: center;
+}
+
+p{
+    font-size: 15pt;
+    color: #000;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+.containerblack{
+    background-color: black;
+    
+}
+
+h3{
+    font-size: 25px;
+    padding-top: 5px;
+   text-align: center;
+    color: white;
+    margin: 0;
+}
+
+#black{
+    font-size: 15pt;
+    color: #fff;
+    margin: 0;
+    padding-top: 5px;
+     padding-left: 730px;
+    padding-bottom: 5px;
+}
+
+.containertri{
+    height: 450px;
+}
+
+#end{
+    padding-top: 88px;
+}
+
+.link{
+    padding-top: 25px;
+    text-align: center; 
+}
+a{
+    text-transform: inherit;
+    text-decoration: none;
+    color: white;
+}
+footer{
+    height: 70px;
+    background-color: black;
+}
